@@ -20,3 +20,5 @@ while right<N:
         left+=1
 
 print(ans)
+
+
